@@ -9,3 +9,6 @@ scikit-learn
 sqlalchemy
 youtube-dl
 PyMuPDF
+numpy
+python-dotenv
+beautifulsoup4
